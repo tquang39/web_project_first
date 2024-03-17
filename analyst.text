@@ -1,0 +1,22 @@
+1. phân tích 
+    - header
+    - slider
+    - content 
+        + about
+        + tour
+        + contact
+        + image
+    - footer
+2. dựng base 
+    - cần biết những thứ này: 
+        + vị trí
+        + kích thước (width, height)
+        + màu sắc
+        + kiểu dáng ( kiểu chữ, tròn, vuông, ...)
+    - làm 
+        + từ ngoài vào trong
+        + từ trên xuống dưới
+        + tổng quan đến chi tiết\
+    
+
+
