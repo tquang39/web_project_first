@@ -170,7 +170,7 @@ html {
    position: relative;
    margin-top: 46px;
    padding-top: 50%;
-   background: url('/assets/img/slider/slider1.png') top center / cover no-repeat; 
+   background: url('./assets/img/slider/slider1.png') top center / cover no-repeat; 
     /* background: background-image background-position / background-size repeat  */
 }
 
